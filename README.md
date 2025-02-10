@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving NULL values in comparisons.  The `bug.sql` file contains a query that unintentionally omits records due to the presence of NULL values in the salary column. The `bugSolution.sql` file provides a corrected query that handles NULL values appropriately.
